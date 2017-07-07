@@ -1,0 +1,17 @@
+3
+Sergey
+Toropov
+19780922
+no
+Russia
+Сергей
+Торопов
+19770321
+yes
+Other
+Nikita
+Michalkov
+19601001
+yes
+Russia
+

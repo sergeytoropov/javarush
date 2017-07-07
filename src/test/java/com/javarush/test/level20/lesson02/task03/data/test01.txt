@@ -1,0 +1,11 @@
+# Файл с настройками
+db.hostname = 10.210.88.20
+db.user =admin
+db.password=123456
+db.sid = cloud
+
+! Комментарий
+ ! Комментарий
+   ! Комментарий
+
+location.path = /home1/siriusmgr/database/loader

@@ -1,0 +1,2 @@
+string1 = 7
+string2 = 9
